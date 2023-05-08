@@ -2,5 +2,5 @@
 自用 Clash规则
 
 ```
-https://raw.githubusercontent.com/fastcoderspencer/ClashRulestOwn/own/Main/release.ini
+https://raw.githubusercontent.com/fastcoderspencer/ClashRulestOwn/own/Config/release.ini
 ```
